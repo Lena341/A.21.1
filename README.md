@@ -8,3 +8,6 @@ destructor which show the right messages, so that you can your answer about the 
 
 B() A() C() D() E()
 ~E() ~D() ~C() ~A() ~B()
+
+Note: 
+The exercises are not mine, only the solution. They are part of the book "C++ from theory to practice" written by G. S. Tselikis.
